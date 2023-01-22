@@ -1,0 +1,3 @@
+# create a requirements.txt file
+fastapi
+uvicorn[standard]
